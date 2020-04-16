@@ -1,0 +1,4 @@
+﻿Hoge,Fuga
+適当なヘッダ
+item1,1
+item2,2
